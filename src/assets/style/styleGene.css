@@ -1,0 +1,24 @@
+.insertionClt
+{
+    border-radius: 10px;
+    background-color: whitesmoke;
+    box-shadow: rgb(20, 19, 19) 0px -10px 25px 1px;
+    
+}
+.liServices tr:nth-child(even)
+{
+    background-color: #c9c1c1;
+}
+.liServices
+{
+    border: 1px gray solid;
+    border-collapse: collapse;
+    border-spacing: 5px;
+    margin: 5px;
+    box-shadow: rgb(20, 19, 19) 0px 2px 25px 1px;
+}
+.liServices td,th
+{
+    border-style: groove;
+    padding: 20px;
+}
